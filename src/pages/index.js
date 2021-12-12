@@ -24,6 +24,7 @@ class RootIndex extends React.Component {
   }
 }
 
+
 export default RootIndex
 
 export const pageQuery = graphql`
